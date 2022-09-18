@@ -22,7 +22,7 @@ https://github.com/Dax083/File-bot)
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/restuap17/FileSharing-Restu)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rikifil/File-bot)</br>
 
 #### Deploy in your VPS
 ### Admin Commands
